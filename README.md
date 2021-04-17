@@ -19,7 +19,10 @@ I love investing in Tech Stocks, it would be quite interesting to apply data ana
 My key interests would be:
 
 1.Best Tech Stocks 2.Highest Return on Long-term investment in Apple and Amazon. 3.Predictions using LinearRegreesion 4.Predictions using LSTM 6.Which one is better LSTM and LinearRegression for Stock Predictions.
-File Descriptions
+
+
+File Descriptions:
+
 https://www.kaggle.com/dgawlik/nyse - downloaded from kaggle.
 
 LinearRegression-Apple.ipynb - notebook where i did my analysis to find answers to my questions using LinearRegression
