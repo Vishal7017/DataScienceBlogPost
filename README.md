@@ -48,7 +48,6 @@ So pick a Particular Stock such as Amazon.
 
 ## Results<a name="results"></a>
 
-# Results
 The main findings of the code can be found at the post available [here](https://vishalden493.medium.com/apple-or-amazon-which-stock-is-better-stock-market-analysis-5ded19483add)
 > Thanks Udacity.
 
