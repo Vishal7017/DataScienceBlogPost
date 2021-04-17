@@ -13,11 +13,12 @@ Stock Market Analysis
 
 I am using Anaconda and Jupyter notebook with Python versions 3.
 Below are the libraries being used explicitly:
-numpy
-pandas
-matplotlib
-sklearn
-seaborn
+-numpy
+-pandas
+-matplotlib
+-sklearn
+-seaborn
+-keras
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -28,11 +29,11 @@ I love investing in Tech Stocks, it would be quite interesting to apply data ana
 
 My key interests would be:
 
-1.Best Tech Stocks 
-2.Highest Return on Long-term investment in Apple and Amazon. 
-3.Predictions using LinearRegreesion 
-4.Predictions using LSTM 
-5.Which one is better LSTM and LinearRegression for Stock Predictions?.
+-1.Best Tech Stocks 
+-2.Highest Return on Long-term investment in Apple and Amazon. 
+-3.Predictions using LinearRegreesion 
+-4.Predictions using LSTM 
+-5.Which one is better LSTM and LinearRegression for Stock Predictions?.
 
 ## File Descriptions <a name="files"></a>
 
