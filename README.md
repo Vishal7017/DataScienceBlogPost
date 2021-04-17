@@ -38,11 +38,11 @@ My key interests would be:
 ## File Descriptions <a name="files"></a>
 
 https://www.kaggle.com/dgawlik/nyse - downloaded from kaggle.
+First the Analysis is done with Linear Regression and then LSTM Prediction.
+So pick a Particular Stock such as Amazon.
 
-LinearRegression-Apple.ipynb - notebook where i did my analysis to find answers to my questions using LinearRegression
-LSTMGOOG.ipynb - notebook where i did my analysis to find answers to my questions using LSTM
-
-
+- 1. LinearRegression-Amazon.ipynb - notebook where i did my analysis to find answers to my questions using LinearRegression
+- 2. LSTM-Amazon.ipynb - notebook where i did my analysis to find answers to my questions using LSTM
 
 
 ## Results<a name="results"></a>
